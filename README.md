@@ -127,15 +127,22 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 
 The dataset distribution:
-
 ![dataset_distribution](https://github.com/user-attachments/assets/896af2c7-0d4e-442c-b895-07a8ba0e4868)
-
 
 Training process:
 ![image](https://github.com/user-attachments/assets/53c7d37e-ae95-4153-b345-42831b184a12)
 
 Sample prediction:
 ![image](https://github.com/user-attachments/assets/e41486b6-6bba-4b40-9df0-adeacd446f49)
+
+Command-line operations:
+![pg1](https://github.com/user-attachments/assets/c7d476b6-0dd9-49ab-8f88-67197addb6b6)
+![pg2](https://github.com/user-attachments/assets/63044061-da78-4606-85ba-aa40e7f39d78)
+![pg3](https://github.com/user-attachments/assets/565006c9-fa4c-41e7-a984-7f4e53fdcfd5)
+![pg4](https://github.com/user-attachments/assets/50c1e640-8a9b-4ee6-bc06-139e0fbf5d31)
+![pg5](https://github.com/user-attachments/assets/fb0014c1-327e-4ba3-87f3-49b671e50297)
+
+
 
 
 

@@ -133,7 +133,7 @@ Training process:
 ![image](https://github.com/user-attachments/assets/53c7d37e-ae95-4153-b345-42831b184a12)
 
 Sample prediction:
-![image](https://github.com/user-attachments/assets/e41486b6-6bba-4b40-9df0-adeacd446f49)
+![predictions](https://github.com/user-attachments/assets/a11fc24c-a5cd-4cb3-8c23-0fa52206503e)
 
 Command-line operations:
 ![pg1](https://github.com/user-attachments/assets/c7d476b6-0dd9-49ab-8f88-67197addb6b6)

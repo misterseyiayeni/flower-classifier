@@ -126,16 +126,16 @@ python predict.py --top_k 5 --category_names cat_to_name.json --gpu assets/img-c
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 
-The dataset distribution:
+- The dataset distribution:
 ![dataset_distribution](https://github.com/user-attachments/assets/896af2c7-0d4e-442c-b895-07a8ba0e4868)
 
-Training process:
+- Training process:
 ![image](https://github.com/user-attachments/assets/53c7d37e-ae95-4153-b345-42831b184a12)
 
-Sample prediction:
+-  Sample prediction:
 ![predictions](https://github.com/user-attachments/assets/a11fc24c-a5cd-4cb3-8c23-0fa52206503e)
 
-Command-line operations:
+- Command-line operations:
 ![pg1](https://github.com/user-attachments/assets/c7d476b6-0dd9-49ab-8f88-67197addb6b6)
 ![pg2](https://github.com/user-attachments/assets/63044061-da78-4606-85ba-aa40e7f39d78)
 ![pg3](https://github.com/user-attachments/assets/565006c9-fa4c-41e7-a984-7f4e53fdcfd5)

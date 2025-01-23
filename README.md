@@ -1,7 +1,7 @@
 # Flower Classifier Project
 
 ## Overview
-This project involves training a neural network to classify images of flowers into their respective categories. The solution includes training a model on a dataset of flower images, saving the trained model as a checkpoint, and making predictions using the trained model. The project uses Python, PyTorch, and pre-trained neural networks from the torchvision library.
+This solution trains a convolutional neural network (CNN) model to classify images of flowers into their respective categories. The solution includes training a model on a dataset of flower images, saving the trained model as a checkpoint, and making predictions using the trained model. The project uses Python, PyTorch, and pre-trained neural networks from the torchvision library.
 
 ## Project Structure
 
